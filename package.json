@@ -1,0 +1,16 @@
+{
+  "name": "js-monads",
+  "version": "1.0.0",
+  "description": "understanding monads by implementing them in js",
+  "repository": "git",
+  "author": "",
+   "license": "UNLICENCED",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^2.3.3",
+    "chai": "^3.4.0"
+  },
+  "scripts": {
+    "test": "mocha -R dot -r ./test/testsetup.js --recursive \"test\""
+  }
+}
