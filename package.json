@@ -1,7 +1,7 @@
 {
   "name": "js-monads",
   "version": "1.0.0",
-  "description": "understanding monads by implementing them in js",
+  "description": "understanding monads",
   "repository": "git",
   "author": "",
    "license": "UNLICENCED",
